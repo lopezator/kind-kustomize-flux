@@ -1,4 +1,2 @@
-.terraform
-terraform.tfstate
-terraform.tfstate.backup
-.terraform.lock.hcl
+# include other experiment gitignore files.
+include:experiments/path-change/.gitignore
